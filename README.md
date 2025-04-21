@@ -1,4 +1,4 @@
-![Project Screenshot](https://github.com/Happy-Singh-Chauhan/happysingh/blob/main/image.jpg?raw=true)
+![Project Screenshot](https://github.com/Happy-Singh-Chauhan/happysingh/blob/main/GitHub-Banner.jpg?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Happy Singh Chauhan</h1>
