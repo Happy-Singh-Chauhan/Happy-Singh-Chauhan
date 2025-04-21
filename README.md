@@ -50,13 +50,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=happysingh04&show_icons=true&locale=en" alt="happysingh04" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Chauhan&show_icons=true&locale=en" alt="Happy-Singh-Chauhan" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=happysingh04&" alt="happysingh04" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Chauhan&" alt="happysingh" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happysingh04&show_icons=true&locale=en&layout=compact" alt="happysingh04" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happy-Singh-Chauhan&show_icons=true&locale=en&layout=compact" alt="Happy-Singh-Chauhan" />
 </p>
 
 ---
@@ -64,9 +64,9 @@
 ### 🔥 Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happysingh04&theme=default" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Chauhan&theme=default" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=happysingh04&bg_color=ffffff&color=000000&line=00bcd4&point=000000&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Happy-Singh-Chauhan&bg_color=ffffff&color=000000&line=00bcd4&point=000000&area=true&hide_border=true" alt="activity graph" />
 </p>
