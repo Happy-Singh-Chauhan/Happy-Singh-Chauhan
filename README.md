@@ -66,8 +66,9 @@
 ### 🔥 Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Happy-Singh-Chauhan&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Happy-Singh-Chauhan&theme=default" alt="GitHub Streak" />
 </div>
+
 
 
 
