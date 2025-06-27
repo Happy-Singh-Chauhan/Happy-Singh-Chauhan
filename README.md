@@ -59,6 +59,13 @@
   <img src="https://raw.githubusercontent.com/Happy-Singh-Chauhan/Happy-Singh-Chauhan/main/assests/streak-stats.svg" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Singh-Chauhan&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Chauhan&show_icons=true&theme=radical" />
+</p>
 
 
 <p align="center">
