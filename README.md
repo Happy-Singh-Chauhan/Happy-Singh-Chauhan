@@ -60,15 +60,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Singh-Chauhan&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Chauhan&show_icons=true&theme=radical" />
-</p>
-
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happy-Singh-Chauhan&show_icons=true&locale=en&layout=compact" alt="Happy-Singh-Chauhan" />
 </p>
 
