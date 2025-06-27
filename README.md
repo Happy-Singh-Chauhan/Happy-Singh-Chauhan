@@ -55,8 +55,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Chauhan&show_icons=true&locale=en" alt="Happy-Singh-Chauhan" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Happy-Singh-Chauhan&" alt="happysingh" />
+  <img src="https://streak-stats.demolab.com/?user=Happy-Singh-Chauhan" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Happy-Singh-Chauhan&show_icons=true&locale=en&layout=compact" alt="Happy-Singh-Chauhan" />
 </p>
