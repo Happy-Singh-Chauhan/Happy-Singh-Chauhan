@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Happy-Singh-Chauhan/Happy-Singh-Chauhan/main/assets/streak-stats.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Happy-Singh-Chauhan/Happy-Singh-Chauhan/main/assests/streak-stats.svg" alt="GitHub Streak" />
 </p>
 
 
