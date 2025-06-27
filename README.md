@@ -3,23 +3,23 @@
 
 
 <h1 align="center">Hi 👋, I'm Happy Singh Chauhan</h1>
-<h3 align="center">A passionate Web Developer & aspiring Software Engineer from India</h3>
+<h3 align="center">🚀 Web Developer | 💻 Aspiring Software Engineer | 🇮🇳 From India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=happysingh04&label=Profile%20views&color=0e75b6&style=flat" alt="happysingh04" />
 </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭  Focused on building dynamic Web Applications and exploring the MERN Stack
 
-- 🌱 I’m currently learning **Advanced DSA & JavaScript**
+- 🌱 Sharpening my skills in Advanced DSA and JavaScript
 
-- 👯 I’m looking to collaborate on **Open Source & Web Projects**
+- 🤝 Open to collaborations on Open Source Projects and exciting Web Development ideas
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, React, DSA**
 
 - 📫 Reach me at **happysinghchauhan72@gmail.com**
 
-- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/Happy-Singh-Chauhan/)
+- 🧠  Active problem solver on [LeetCode](https://leetcode.com/u/Happy-Singh-Chauhan/)
 
 ---
 
