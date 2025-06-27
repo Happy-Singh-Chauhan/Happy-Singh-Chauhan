@@ -54,7 +54,11 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Happy-Singh-Chauhan&show_icons=true&locale=en" alt="Happy-Singh-Chauhan" />
 </p>
-<img src="https://img.shields.io/badge/Streaks-🔥%20350%2B%20Days-blue?style=for-the-badge" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Happy-Singh-Chauhan/Happy-Singh-Chauhan/main/assets/streak-stats.svg" alt="GitHub Streak" />
+</p>
+
 
 
 <p align="center">
